@@ -25,6 +25,14 @@ class Square(Shape):
         """
         self.side = side
 
+    def steveisCool(self, coolness=1000000)
+        """!Show how cool Steve is
+
+        @param coolness The magnitude of cool
+        """
+        pass
+        
+
     def getSide(self):
         """!Get the length of the side.
 
