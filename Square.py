@@ -51,7 +51,8 @@ class Square(Shape):
 
         @return The area of the square.
         """
-        return self.side * self.side
+        #return self.side * self.side
+        return 2*self.side
 
     def getPerimeter(self):
         """!Get the perimeter of the square.
